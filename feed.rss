@@ -1,37 +1,43 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<rss version="2.0" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:content="http://purl.org/rss/1.0/modules/content/">
-	<channel>
-		<title>Journey into the Unknown</title>
-		<link>https://github.com/modsobstudios/jitu2/</link>
-		<link rel="self" type="application/rss+xml href="https://github.com/modsobstudios/jitu2/blob/master/feed.rss" />
-		<language>en-us</language>
-		<copyright>BotM's Up Productions</copyright>
-		<itunes:author>BotM's Up Productions</itunes:author>
-		<description>
-			A liveplay recording of Noel's Journey Into The Unknown Campaign 1.
-		</description>
-		<itunes:type></itunes:type>
-		<itunes:owner>
-			<itunes:name>BotM's Up Productions</itunes:name>
-			<itunes:email>modsobgaming@gmail.com</itunes:email>
-		</itunes:owner>
-		<itunes:image href="https://github.com/modsobstudios/jitu2/raw/master/pcArt.png"/>
-		<itunes:category text="Fiction"/>
-		<itunes:explicit>YES</itunes:explicit>
-		<item>
-			<title>Test Ep 1</title>
-			<itunes:title>Test Ep 2</itunes:title>
-			<itunes:author>Auth 1</itunes:author>
-			<description><![CDATA[<p>Desc 2</p>]]></description>
-			<enclosure url="https://github.com/modsobstudios/jitu2/raw/master/audio/17crazy.mp3" length="{% filesize %}./audio/17crazy.mp3{% endfilesize %}" type="audio/mpeg" />
-			<itunes:duration>{% audioduration %}./audio/17crazy.mp3{% endaudioduration %}</itunes:duration>
-			<itunes:season>1</itunes:season>
-			<itunes:episode>33</itunes:episode>
-			<itunes:episodeType>full</itunes:episodeType>
 
-        	<guid isPermaLink="false">https://github.com/modsobstudios/jitu/raw/master/audio/17crazy.mp3</guid>
-       		<pubDate>{{ post.date | date: "%a, %d %b %Y %T %z" }}</pubDate>
-			<itunes:explicit>YES</itunes:explicit>
-		</item>
-	</channel>
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet href="https://feeds.buzzsprout.com/styles.xsl" type="text/xsl"?>
+<rss version="2.0" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:podcast="https://podcastindex.org/namespace/1.0" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom">
+<channel>
+  <atom:link href="https://feeds.buzzsprout.com/1707127.rss" rel="self" type="application/rss+xml" />
+  <atom:link href="https://pubsubhubbub.appspot.com/" rel="hub" xmlns="http://www.w3.org/2005/Atom" />
+  <title>Journey into the Unknown</title>
+  <lastBuildDate>Fri, 19 Feb 2021 09:17:31 -0500</lastBuildDate>
+  <link></link>
+  <language>en-us</language>
+  <copyright>© 2021 Journey into the Unknown</copyright>
+  <podcast:locked owner="mattrello@gmail.com">yes</podcast:locked>
+  <itunes:subtitle><![CDATA[2]]></itunes:subtitle>
+  <itunes:author>BotM's Up Productions</itunes:author>
+  <itunes:summary><![CDATA[2]]></itunes:summary>
+  <itunes:type>episodic</itunes:type>
+  <itunes:explicit>true</itunes:explicit>
+  <description><![CDATA[2]]></description>
+  <itunes:owner>
+    <itunes:name>BotM's Up Productions</itunes:name>
+    <itunes:email>mattrello@gmail.com</itunes:email>
+  </itunes:owner>
+  <item>
+    <itunes:title>Episode 17: Everything and Nothing</itunes:title>
+    <title>Episode 17: Everything and Nothing</title>
+    <description><![CDATA[]]></description>
+    <content:encoded><![CDATA[]]></content:encoded>
+    <itunes:image href="https://github.com/modsobstudios/jitu2/blob/main/pcArt.png" />
+    <itunes:author>BotM's Up Productions</itunes:author>
+    <itunes:summary></itunes:summary>
+    <enclosure url="https://github.com/modsobstudios/jitu2/blob/main/audio/17crazy.mp3" length="195357922" type="audio/mpeg" />
+    <guid isPermaLink="false">Buzzsprout-7957558</guid>
+    <pubDate>Fri, 19 Feb 2021 00:00:00 -0500</pubDate>
+    <itunes:duration>16275</itunes:duration>
+    <itunes:keywords></itunes:keywords>
+    <itunes:season>1</itunes:season>
+    <itunes:episode>17</itunes:episode>
+    <itunes:episodeType>full</itunes:episodeType>
+    <itunes:explicit>true</itunes:explicit>
+  </item>
+</channel>
 </rss>
