@@ -29,7 +29,7 @@
     <itunes:author>BotM's Up Productions</itunes:author>
     <itunes:summary>Having discovered an uncomfotable truth, the party confronts themselves in a manner more literal than expected.</itunes:summary>
     <enclosure url="https://jitupod.s3.us-east-2.amazonaws.com/C01E016_MistsOfReckoning.mp3" length="390016080" type="audio/mpeg" />
-    <guid isPermaLink="false">https://github.com/modsobstudios/jitu2/edit/main/feed.rss</guid>
+    <guid isPermaLink="true">https://jitupod.s3.us-east-2.amazonaws.com/C01E016_MistsOfReckoning.mp3</guid>
     <pubDate>Fri, 19 Feb 2021 00:00:00 -0500</pubDate>
     <itunes:duration>04:30:50</itunes:duration>
     <itunes:keywords></itunes:keywords>
