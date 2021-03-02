@@ -10,7 +10,7 @@
   <language>en-us</language>
   <copyright>© 2021 Journey into the Unknown</copyright>
   <itunes:subtitle><![CDATA[By Eight and Eight]]></itunes:subtitle>
-  <itunes:image href="https://raw.githubusercontent.com/modsobstudios/jitu2/main/pcArt.png"/>
+  <itunes:image href="https://raw.githubusercontent.com/modsobstudios/jitu2/main/pcArt.jpg"/>
   <itunes:author>BotM's Up Productions</itunes:author>
   <itunes:summary><![CDATA[By Eight and Eight]]></itunes:summary>
   <itunes:type>episodic</itunes:type>
@@ -25,7 +25,7 @@
     <title>Episode 16: Mists of Reckoning</title>
     <description>Having discovered an uncomfotable truth, the party confronts themselves in a manner more literal than expected.</description>
     <content:encoded><![CDATA[Having discovered an uncomfotable truth, the party confronts themselves in a manner more literal than expected.]]></content:encoded>
-    <itunes:image href="https://raw.githubusercontent.com/modsobstudios/jitu2/main/pcArt.png"/>
+    <itunes:image href="https://raw.githubusercontent.com/modsobstudios/jitu2/main/pcArt.jpg"/>
     <itunes:author>BotM's Up Productions</itunes:author>
     <itunes:summary>Having discovered an uncomfotable truth, the party confronts themselves in a manner more literal than expected.</itunes:summary>
     <enclosure url="https://github.com/modsobstudios/jitu2/raw/main/audio/C01E016_MistsOfReckoning.mp3" length="390016080" type="audio/mpeg" />
