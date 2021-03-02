@@ -1,10 +1,10 @@
 <?xml-stylesheet href="https://feeds.buzzsprout.com/styles.xsl" type="text/xsl"?>
-<rss version="2.0" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:podcast="https://podcastindex.org/namespace/1.0" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom">
+<rss version="2.0" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom">
 <channel>
-  <atom:link href="https://github.com/modsobstudios/jitu2/edit/main/feed.rss" rel="self" type="application/rss+xml" />
+  <atom:link href="https://raw.githubusercontent.com/modsobstudios/jitu2/main/feed.rss" rel="self" type="application/rss+xml" />
   <atom:link href="https://pubsubhubbub.appspot.com/" rel="hub" xmlns="http://www.w3.org/2005/Atom" />
   <title>Journey into the Unknown</title>
-  <lastBuildDate>{{ site.time | date_to_rfc822 }}</lastBuildDate>
+  <lastBuildDate>Wed, 02 Oct 2002 13:00:00 GMT</lastBuildDate>
   <link>https://github.com/modsobstudios/jitu2/edit/main/feed.rss</link>
   <language>en-us</language>
   <copyright>© 2021 Journey into the Unknown</copyright>
@@ -14,7 +14,7 @@
   <itunes:author>BotM's Up Productions</itunes:author>
   <itunes:summary><![CDATA[By Eight and Eight]]></itunes:summary>
   <itunes:type>episodic</itunes:type>
-  <itunes:explicit>true</itunes:explicit>
+  <itunes:explicit>yes</itunes:explicit>
   <description><![CDATA[By Eight and Eight]]></description>
   <itunes:owner>
     <itunes:name>BotM's Up Productions</itunes:name>
@@ -36,7 +36,7 @@
     <itunes:season>1</itunes:season>
     <itunes:episode>16</itunes:episode>
     <itunes:episodeType>full</itunes:episodeType>
-    <itunes:explicit>true</itunes:explicit>
+    <itunes:explicit>yes</itunes:explicit>
   </item>
 </channel>
 </rss>
