@@ -28,9 +28,9 @@
     <itunes:image href="https://raw.githubusercontent.com/modsobstudios/jitu2/main/pcArt.png"/>
     <itunes:author>BotM's Up Productions</itunes:author>
     <itunes:summary>Having discovered an uncomfotable truth, the party confronts themselves in a manner more literal than expected.</itunes:summary>
-    <enclosure url="https://jitupod.s3.us-east-2.amazonaws.com/C01E016_MistsOfReckoning.mp3" length="390016080" type="audio/mpeg" />
-    <guid isPermaLink="true">https://jitupod.s3.us-east-2.amazonaws.com/C01E016_MistsOfReckoning.mp3</guid>
-    <pubDate>Fri, 19 Feb 2021 00:00:00 -0500</pubDate>
+    <enclosure url="https://github.com/modsobstudios/jitu2/raw/main/audio/C01E016_MistsOfReckoning.mp3" length="390016080" type="audio/mpeg" />
+    <guid isPermaLink="true">https://github.com/modsobstudios/jitu2/raw/main/audio/C01E016_MistsOfReckoning.mp3</guid>
+    <pubDate>Wed, 10 Feb 2021 00:00:00 -0500</pubDate>
     <itunes:duration>04:30:50</itunes:duration>
     <itunes:keywords></itunes:keywords>
     <itunes:season>1</itunes:season>
@@ -38,5 +38,42 @@
     <itunes:episodeType>full</itunes:episodeType>
     <itunes:explicit>yes</itunes:explicit>
   </item>
+    <item>
+    <itunes:title>Episode 17: Before the Siege</itunes:title>
+    <title>Episode 17: Before the Siege</title>
+    <description>The party plans for a siege, and a midnight raid reveals both a terrible tragedy and an unimaginable boon.</description>
+    <content:encoded><![CDATA[The party plans for a siege, and a midnight raid reveals both a terrible tragedy and an unimaginable boon.]]></content:encoded>
+    <itunes:image href="https://raw.githubusercontent.com/modsobstudios/jitu2/main/pcArt.png"/>
+    <itunes:author>BotM's Up Productions</itunes:author>
+    <itunes:summary>The party plans for a siege, and a midnight raid reveals both a terrible tragedy and an unimaginable boon.</itunes:summary>
+    <enclosure url="https://github.com/modsobstudios/jitu2/raw/main/audio/C01E017_BeforeTheSiege.mp3" length="364972516" type="audio/mpeg" />
+    <guid isPermaLink="true">https://github.com/modsobstudios/jitu2/raw/main/audio/C01E017_BeforeTheSiege.mp3</guid>
+    <pubDate>Wed, 17 Feb 2021 00:00:00 -0500</pubDate>
+    <itunes:duration>06:20:10</itunes:duration>
+    <itunes:keywords></itunes:keywords>
+    <itunes:season>1</itunes:season>
+    <itunes:episode>17</itunes:episode>
+    <itunes:episodeType>full</itunes:episodeType>
+    <itunes:explicit>yes</itunes:explicit>
+  </item>
+  <item>
+    <itunes:title>Episode 18: Planning and Excavation</itunes:title>
+    <title>Episode 18: Planning and Excavation</title>
+    <description>The plan for the siege continues, and the coming battle begins to take shape.</description>
+    <content:encoded><![CDATA[The plan for the siege continues, and the coming battle begins to take shape.]]></content:encoded>
+    <itunes:image href="https://raw.githubusercontent.com/modsobstudios/jitu2/main/pcArt.png"/>
+    <itunes:author>BotM's Up Productions</itunes:author>
+    <itunes:summary>The plan for the siege continues, and the coming battle begins to take shape.</itunes:summary>
+    <enclosure url="https://github.com/modsobstudios/jitu2/raw/main/audio/C01E018_PlanningAndExcavation.mp3" length="261061377" type="audio/mpeg" />
+    <guid isPermaLink="true">https://github.com/modsobstudios/jitu2/raw/main/audio/C01E018_PlanningAndExcavation.mp3</guid>
+    <pubDate>Wed, 24 Feb 2021 00:00:00 -0500</pubDate>
+    <itunes:duration>04:31:55</itunes:duration>
+    <itunes:keywords></itunes:keywords>
+    <itunes:season>1</itunes:season>
+    <itunes:episode>18</itunes:episode>
+    <itunes:episodeType>full</itunes:episodeType>
+    <itunes:explicit>yes</itunes:explicit>
+  </item>
+  
 </channel>
 </rss>
