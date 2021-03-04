@@ -74,6 +74,23 @@
     <itunes:episodeType>full</itunes:episodeType>
     <itunes:explicit>yes</itunes:explicit>
   </item>
-  
+    <item>
+    <itunes:title>Episode 19: Zeratan at the Gates</itunes:title>
+    <title>Episode 19: Zeratan at the Gates</title>
+    <description>With the plan locked in, the heroes cast the Bubble, strike a great victory with the Council, and immediately forget the entire plan.</description>
+    <content:encoded><![CDATA[With the plan locked in, the heroes cast the Bubble, strike a great victory with the Council, and immediately forget the entire plan.]]></content:encoded>
+    <itunes:image href="https://raw.githubusercontent.com/modsobstudios/jitu2/main/pcArt.png"/>
+    <itunes:author>BotM's Up Productions</itunes:author>
+    <itunes:summary>With the plan locked in, the heroes cast the Bubble, strike a great victory with the Council, and immediately forget the entire plan.</itunes:summary>
+    <enclosure url="https://github.com/modsobstudios/jitu2/raw/main/audio/C01E019_ZeratanAtTheGates.mp3" length="336244127" type="audio/mpeg" />
+    <guid isPermaLink="true">https://github.com/modsobstudios/jitu2/raw/main/audio/C01E019_ZeratanAtTheGates.mp3</guid>
+    <pubDate>Wed, 3 Mar 2021 00:00:00 -0500</pubDate>
+    <itunes:duration>05:50:14</itunes:duration>
+    <itunes:keywords></itunes:keywords>
+    <itunes:season>1</itunes:season>
+    <itunes:episode>19</itunes:episode>
+    <itunes:episodeType>full</itunes:episodeType>
+    <itunes:explicit>yes</itunes:explicit>
+  </item>
 </channel>
 </rss>
