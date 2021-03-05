@@ -92,7 +92,6 @@
     <itunes:episodeType>full</itunes:episodeType>
     <itunes:explicit>yes</itunes:explicit>
   </item>
-  
   <item>
     <itunes:title>Episode 20: War Were Declared</itunes:title>
     <title>Episode 20: War Were Declared</title>
@@ -111,6 +110,5 @@
     <itunes:episodeType>full</itunes:episodeType>
     <itunes:explicit>yes</itunes:explicit>
   </item>
-  
 </channel>
 </rss>
