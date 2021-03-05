@@ -74,7 +74,7 @@
     <itunes:episodeType>full</itunes:episodeType>
     <itunes:explicit>yes</itunes:explicit>
   </item>
-    <item>
+  <item>
     <itunes:title>Episode 19: Zeratan at the Gates</itunes:title>
     <title>Episode 19: Zeratan at the Gates</title>
     <description>With the plan locked in, the heroes cast the Bubble, strike a great victory with the Council, and immediately forget the entire plan.</description>
@@ -92,5 +92,25 @@
     <itunes:episodeType>full</itunes:episodeType>
     <itunes:explicit>yes</itunes:explicit>
   </item>
+  
+  <item>
+    <itunes:title>Episode 20: War Were Declared</itunes:title>
+    <title>Episode 20: War Were Declared</title>
+    <description>With Simon recovering from the Bubble casting, the rest of the party attempts to hold the line.</description>
+    <content:encoded><![CDATA[With Simon recovering from the Bubble casting, the rest of the party attempts to hold the line.]]></content:encoded>
+    <itunes:image href="https://raw.githubusercontent.com/modsobstudios/jitu2/main/pcArt.png"/>
+    <itunes:author>BotM's Up Productions</itunes:author>
+    <itunes:summary>With Simon recovering from the Bubble casting, the rest of the party attempts to hold the line.</itunes:summary>
+    <enclosure url="https://github.com/modsobstudios/jitu2/raw/main/audio/C01E020_WarWereDeclared.mp3" length="279304696" type="audio/mpeg" />
+    <guid isPermaLink="true">https://github.com/modsobstudios/jitu2/raw/main/audio/C01E020_WarWereDeclared.mp3</guid>
+    <pubDate>Wed, 4 Mar 2021 00:00:00 -0500</pubDate>
+    <itunes:duration>04:50:55</itunes:duration>
+    <itunes:keywords></itunes:keywords>
+    <itunes:season>1</itunes:season>
+    <itunes:episode>20</itunes:episode>
+    <itunes:episodeType>full</itunes:episodeType>
+    <itunes:explicit>yes</itunes:explicit>
+  </item>
+  
 </channel>
 </rss>
